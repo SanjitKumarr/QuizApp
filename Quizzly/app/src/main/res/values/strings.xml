@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quizzly</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/13</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">Super classes are also called Parent classes/Base classes.</string>
+    <string name="question_2">It is not possible to achieve inheritance of structures in c++?</string>
+    <string name="question_3">In an instance method or a constructor, "this" is a reference to the current object.</string>
+    <string name="question_4">Interfaces can be instantiated.</string>
+    <string name="question_5">Assignment operator is evaluated Left to Right.</string>
+    <string name="question_6">Constructor overloading is not possible in Java.</string>
+    <string name="question_7">A .class file contains bytecodes?.</string>
+    <string name="question_8">James Gosling is father of Java?</string>
+    <string name="question_9">Google was originally called \"Backrub\".</string>
+    <string name="question_10">consider the statement "x = (a > b) ? a : b"; then the value of x is 27, if a = 18 and b = 27.</string>
+    <string name="question_11">Only character or integer can be used in switch statement.</string>
+    <string name="question_12">The return type of malloc function is void.</string>
+    <string name="question_13">A file opened for writing already exists its contents would be overwritten.</string>
+
+</resources>
